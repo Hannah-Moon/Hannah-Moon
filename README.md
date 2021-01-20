@@ -29,7 +29,7 @@ You can see what I am currently up to on [hannahmoon.me][1].
 - Web: [hannahmoon.me][1]
 - LinkedIn: [linkedin.com/in/hannahmoon][2]
 - Twitter: [twitter.com/good2bhannah][3]
-- Blog: [medium.com/@hannah.hk.moon/][4]
+- Blog: [medium.com/@hannah.hk.moon][4]
 
 
 ## 🌳 My Digital Garden
@@ -39,7 +39,7 @@ You can find my blog posts on [hannahmoon.me][4]. I write about things that I li
 
 ## 🤜🏻🤛🏻 Support Me
 
-You can support me and [buy me a coffee][8], if you want. 🙏🏻
+You can support me and [buy me a coffee][5], if you want. 🙏🏻
 
 ## 📕 Latest Blog Posts
 
@@ -69,3 +69,4 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 [2]: https://www.linkedin.com/in/hannahmoon
 [3]: https://www.twitter.com/good2bhannah
 [4]: https://medium.com/@hannah.hk.moon/
+[5]: https://www.buymeacoffee.com/good2bhannah
