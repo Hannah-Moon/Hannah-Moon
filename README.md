@@ -44,7 +44,7 @@ You can support me and [buy me a coffee][5], if you want. 🙏🏻
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Black Text Matter: Typography]](https://medium.com/@hannah.hk.moon/black-text-matter-typography-ac3747506825)
+- [Black Text Matter: Typography](https://medium.com/@hannah.hk.moon/black-text-matter-typography-ac3747506825)
 - [How I Managed Two Paid Summer Internships as a Single Mom](https://medium.com/@hannah.hk.moon/how-i-managed-two-paid-summer-internships-as-a-single-mom-7b644ce4e45a)
 -
 <!-- BLOG-POST-LIST:END -->
