@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! I am Hannah. 👋
 
 <!--
 **Hannah-Moon/Hannah-Moon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 
 
-Hello 👋🏻,
 
 I am a user experience researcher in 🇺🇸. I employ diffdrent design methods and technologies to create interface where human and computer can interact and empower each other. I love to find innovative solutions in complex problems.
 
