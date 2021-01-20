@@ -27,7 +27,7 @@ You can see what I am currently up to on [hannahmoon.me][1].
 ## 📬 Get in touch
 
 - Web: [hannahmoon.me][1]
-- LinkedIn: [linkedin.com/in/hannahmoon][2]
+- LinkedIn: [linkedin.com/moonhannah/][2]
 - Twitter: [twitter.com/good2bhannah][3]
 - Blog: [medium.com/@hannah.hk.moon][4]
 
@@ -66,7 +66,7 @@ You can support me and [buy me a coffee][5], if you want. 🙏🏻
 </a>
 
 [1]: https://www.hannahmoon.me
-[2]: https://www.linkedin.com/in/hannahmoon
+[2]: https://www.linkedin.com/in/moonhannah/
 [3]: https://www.twitter.com/good2bhannah
 [4]: https://medium.com/@hannah.hk.moon/
 [5]: https://www.buymeacoffee.com/good2bhannah
