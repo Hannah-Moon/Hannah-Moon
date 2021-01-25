@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 I am a user experience researcher in 🇺🇸. I employ diffdrent design methods and technologies to create interface where human and computer can interact and empower each other. I love to find innovative solutions in complex problems.
 
-You can see what I am currently up to on [hannahmoon.me][1].
+You can see what I am currently up to on [https://hannah-moon.github.io/][1].
 
 ## 📬 Get in touch
 
@@ -33,7 +33,7 @@ You can see what I am currently up to on [hannahmoon.me][1].
 
 ## 🌳 My Digital Garden
 
-You can find my blog posts on [hannahmoon.me][4]. I write about things that I like and care including **desing methodology**, **python**, **Java**, and
+You can find my blog posts on [medium/hannahmoon][4]. I write about things that I like and care including **desing methodology**, **python**, **Java**, and
 **HTML/CSS/Java Script**. I also mentor adult learners who is looking for second, thrid, or any new career opportunities. 
 
 ## 🤜🏻🤛🏻 Support Me
