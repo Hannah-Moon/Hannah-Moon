@@ -25,7 +25,7 @@ You can see what I am currently up to on [hannahmoon.me][1].
 
 ## 📬 Get in touch
 
-- Web: [hannahmoon.me][1]
+- Web: [hannah-moon.github.io/][1]
 - LinkedIn: [linkedin.com/moonhannah/][2]
 - Twitter: [twitter.com/good2bhannah][3]
 - Blog: [medium.com/@hannah.hk.moon][4]
@@ -64,7 +64,7 @@ You can support me and [buy me a coffee][5], if you want. 🙏🏻
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=natterstefan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
 </a>
 
-[1]: https://www.hannahmoon.me
+[1]: https://hannah-moon.github.io/
 [2]: https://www.linkedin.com/in/moonhannah/
 [3]: https://www.twitter.com/good2bhannah
 [4]: https://medium.com/@hannah.hk.moon/
