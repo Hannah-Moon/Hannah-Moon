@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-I am a Creative Manager and Experience Strategist in 🇺🇸. I employ diffdrent design methods and technologies to create interface where human and computer can interact and empower each other. I love to find innovative solutions in complex problems.
+I am a resesearcher and experience designer in 🇺🇸. I employ diffdrent design methods and technologies to create enchant user experience where human and computer can interact and empower each other. I love to find innovative solutions in complex problems.
 
 You can see what I am currently up to on [https://hannah-moon.github.io/][1].
 
