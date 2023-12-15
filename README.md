@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-I am a researcher, innovator and experience designer in 🇺🇸. I employ different design methods and technologies to create an enchant user experience where humans and technologies can interact and empower each other. I love to find innovative solutions to complex problems.
+I am a researcher, innovator, and experienced designer in 🇺🇸. I employ different design methods and technologies to create an enchant user experience where humans and technologies can interact and empower each other. I love to find innovative solutions to complex problems.
 
 You can see what I am currently up to on [https://hannah-moon.github.io/][1].
 
@@ -61,7 +61,7 @@ You can support me and [buy me a coffee][5], if you want. 🙏🏻
 </a>
 
 <a href="https://github.com/Hannah-Moon/Hannah-Moon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=natterstefan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HannahMoon&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
 </a>
 
 [1]: https://hannah-moon.github.io/
