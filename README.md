@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-I am a researcher, innovator, and experienced designer in 🇺🇸. I employ different design methods and technologies to create an enchant user experience where humans and technologies can interact and empower each other. I love to find innovative solutions to complex problems.
+I am a computer engineer, researcher, innovator, and product designer in 🇺🇸. I employ different design methods and technologies to create an enchant user experience where humans and technologies can interact and empower each other. I love to find innovative solutions to complex problems.
 
 You can see what I am currently up to on [https://hannah-moon.github.io/][1].
 
