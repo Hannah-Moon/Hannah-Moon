@@ -25,7 +25,7 @@ You can see what I am currently up to on [https://hannah-moon.github.io/home.htm
 
 ## 📬 Get in touch
 
-- Web: [hannah-moon.github.io/][1]
+- Web: [https://hannah-moon.github.io/home.html][1]
 - LinkedIn: [linkedin.com/moonhannah/][2]
 - Twitter: [twitter.com/good2bhannah][3]
 - Blog: [medium.com/@hannah.hk.moon][4]
@@ -34,7 +34,7 @@ You can see what I am currently up to on [https://hannah-moon.github.io/home.htm
 ## 🌳 My Digital Garden
 
 You can find my blog posts on [medium/hannahmoon][4]. I write about things that I like and care including **design methodology**, **python**, **Java**, and
-**HTML/CSS/Java Script**. I also mentor adult learners who are looking for second, third, or any new career opportunities. 
+**HTML/CSS/Java Script**. 
 
 ## 🤜🏻🤛🏻 Support Me
 
