@@ -15,13 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I am a Human-Centered Full-Stack Software Engineer in 🇺🇸 adept at blending software engineering, legal, and creative skills to craft seamless and responsible technologies that empower end-users, whether they are consumers or internal stakeholders, in complex environments.  
 
+I employ different technologies and methods to create an enchanting user experience where humans and technologies can interact and empower each other. I love finding innovative solutions to complex problems.
 
-
-
-I am a computer engineer, researcher, innovator, and product designer (both of tangible and intangible) in 🇺🇸. I employ different technologies and design methods to create an enchant user experience where humans and technologies can interact and empower each other. I love to find innovative solutions to complex problems.
-
-You can see what I am currently up to on [https://hannah-moon.github.io/home.html][1].
 
 ## 📬 Get in touch
 
@@ -48,10 +45,20 @@ You can support me and [buy me a coffee][5], if you want. 🙏🏻
 
 <!-- BLOG-POST-LIST:END -->
 
+Programming Languages: R, Python 
+Web Development: HTML/ CSS/JavaScript
+Database Management:  MERN (MongoDB, Express, React, Node)
+Software Tools: Git, CMS platforms, and any hosting services
+Design and others: Figma, Adobe, Jira, Mural, Tableau
+
+
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 
+- 🔭 I’m currently working on enhancing my technical skills on HTML, CSS, JavaScript, and MERN (MongoDB, Express, React, Node). 
+- 🌱 I’m currently writing an HCI-related paper to publish.
+- 
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
@@ -61,7 +68,6 @@ You can support me and [buy me a coffee][5], if you want. 🙏🏻
 
 <!-- <a href="https://github.com/Hannah-Moon">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hannah-moon&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>-->
-
 
 <a href="https://github.com/Hannah-Moon">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hannah-Moon&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Hannah's GitHub Stats" />
