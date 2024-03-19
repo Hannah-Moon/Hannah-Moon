@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Human-Centered Full-Stack Software Engineer in 🇺🇸 adept at blending software engineering, legal, and creative skills to craft seamless and responsible technologies that empower end-users, whether they are consumers or internal stakeholders, in complex environments.  
+I am a Human-Centered Full-Stack Software Engineer in 🇺🇸. I am adept at blending software engineering, legal, and creative skills to craft seamless and responsible technologies that empower end-users, whether they are consumers or internal stakeholders, in complex environments.  
 
 I employ different technologies and methods to create an enchanting user experience where humans and technologies can interact and empower each other. I love finding innovative solutions to complex problems.
 
@@ -67,7 +67,7 @@ You can support me and [buy me a coffee][5], if you want. 🙏🏻
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hannah-Moon&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Hannah's GitHub Stats" />
 </a>
 
-[1]: https://hannah-moon.github.io/
+[1]: https://hannah-moon.github.io/home.html
 [2]: https://www.linkedin.com/in/moonhannah/
 [3]: https://www.twitter.com/good2bhannah
 [4]: https://medium.com/@hannah.hk.moon/
