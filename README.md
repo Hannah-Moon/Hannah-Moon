@@ -45,12 +45,6 @@ You can support me and [buy me a coffee][5], if you want. 🙏🏻
 
 <!-- BLOG-POST-LIST:END -->
 
-Programming Languages: R, Python 
-Web Development: HTML/ CSS/JavaScript
-Database Management:  MERN (MongoDB, Express, React, Node)
-Software Tools: Git, CMS platforms, and any hosting services
-Design and others: Figma, Adobe, Jira, Mural, Tableau
-
 
 ## :zap: Recent Activity
 
@@ -58,7 +52,7 @@ Design and others: Figma, Adobe, Jira, Mural, Tableau
 
 - 🔭 I’m currently working on enhancing my technical skills on HTML, CSS, JavaScript, and MERN (MongoDB, Express, React, Node). 
 - 🌱 I’m currently writing an HCI-related paper to publish.
-- 
+
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
