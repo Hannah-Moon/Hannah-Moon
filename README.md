@@ -50,7 +50,7 @@ You can support me and [buy me a coffee][5], if you want. 🙏🏻
 
 <!--START_SECTION:activity-->
 
-- 🔭 I’m currently working on enhancing my technical skills on HTML, CSS, JavaScript, and MERN (MongoDB, Express, React, Node). 
+- 🔭 I’m currently working on learning new technical skills on React while enhancing foundational HTML, CSS, JavaScript, and MERN (MongoDB, Express, React, Node). 
 - 🌱 I’m currently writing an HCI-related paper to publish.
 
 <!--END_SECTION:activity-->
