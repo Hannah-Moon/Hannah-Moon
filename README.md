@@ -57,15 +57,20 @@ You can support me and [buy me a coffee][5], if you want. 🙏🏻
 
 ## &#x1f4c8; My GitHub Stats
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hannah-moon)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=bki654)](https://velog.io/@bki654)
+
+
+<!-- <a href="https://github.com/Hannah-Moon">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hannah-moon&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+
 <a href="https://github.com/Hannah-Moon">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hannah-moon&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 
-<!-- <a href="https://github.com/Hannah-Moon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hannah-moon&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>-->
-
 <a href="https://github.com/Hannah-Moon">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hannah-Moon&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Hannah's GitHub Stats" />
-</a>
+</a> -->
 
 [1]: https://hannah-moon.github.io/home.html
 [2]: https://www.linkedin.com/in/moonhannah/
