@@ -11,8 +11,7 @@ I employ different technologies and methods to create an enchanting user experie
 
 
 ## 🤜🏻🤛🏻 Support Me
-
-You can support me and [buy me a coffee][5], if you want. 🙏🏻
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/good2bhannah)
 
 
 ## :zap: Recent Activity
@@ -29,17 +28,9 @@ You can support me and [buy me a coffee][5], if you want. 🙏🏻
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hannah-moon)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## 📬 Get in touch
-
-- Web: [https://hannah-moon.github.io/home.html][1]
-- LinkedIn: [linkedin.com/moonhannah/][2]
-- Twitter: [twitter.com/good2bhannah][3]
-- Blog: [medium.com/@hannah.hk.moon][4]
-
-
 ## My Stats:
 <p align="center">
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=THannah-Moon/&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=Hannah-Moon/&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
 </p>
 
 ## Activity On GitHub
