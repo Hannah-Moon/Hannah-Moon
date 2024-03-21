@@ -5,14 +5,6 @@ I am a Human-Centered Software Engineer and design strategist in 🇺🇸. I am 
 I employ different technologies and methods to create an enchanting user experience where humans and technologies can interact and empower each other. I love finding innovative solutions to complex problems.
 
 
-## Languages and Tools
-
-<p align="left"> <a href="https://github.com/Hannah-Moon/"><img src="https://skillicons.dev/icons?i=vscode,github,mongodb,css,html,js,nodejs"> </a> </p>
-
-
-## 🤜🏻🤛🏻 Support Me
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/good2bhannah)
-
 
 ## :zap: Recent Activity
 
@@ -20,6 +12,18 @@ I employ different technologies and methods to create an enchanting user experie
 
 - 🔭 I’m currently working on learning new technical skills in React and Node.js while enhancing foundational HTML, CSS, JavaScript, and MERN (MongoDB, Express, React, Node). 
 - 🌱 I’m currently writing an HCI-related paper to publish.
+
+  
+
+## Languages and Tools
+
+<p align="left"> <a href="https://github.com/Hannah-Moon/"><img src="https://skillicons.dev/icons?i=vscode,github,mongodb,css,html,js,nodejs"> </a> </p>
+
+
+
+## 🤜🏻🤛🏻 Support Me
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/good2bhannah)
+
 
 <!--END_SECTION:activity-->
 
