@@ -2,7 +2,7 @@
 
 I am a Human-Centered Software Engineer and design strategist in 🇺🇸. I am adept at blending software engineering, legal, and creative skills to craft seamless and responsible technologies that empower end-users, whether they are consumers or internal stakeholders, in complex environments.  
 
-I employ different technologies and methods to create an enchanting user experience where humans and technologies can interact and empower each other. I love finding innovative solutions to complex problems.
+I employ different technologies and methods to create an enchanting user experience where humans and technologies can interact and empower each other. 
 
 
 
