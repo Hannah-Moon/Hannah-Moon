@@ -16,7 +16,7 @@ I employ different technologies and methods to create an enchanting user experie
 
 ## Languages and Tools
 
-<p align="left"> <a href="https://github.com/Hannah-Moon/"><img src="https://skillicons.dev/icons?i=vscode,github,mongodb,codepen,html,css,js,nodejs,jquery,ts,figma,ae,ai,xd,discord,git,notion"> </a> </p>
+<p align="left"> <a href="https://github.com/Hannah-Moon/"><img src="https://skillicons.dev/icons?i=vscode,github,mongodb,codepen,html,css,js,nodejs,npm,jquery,ts,figma,ae,ai,xd,discord,git,notion"> </a> </p>
 
 ## 🤜🏻🤛🏻 Support Me
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/good2bhannah)
