@@ -24,7 +24,6 @@ I employ different technologies and methods to create an enchanting user experie
 
 ## &#x1f4c8; My GitHub Stats
 
-<h3 align="left">Stars</h3>
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Hannah-Moon&show_icons=true&locale=en&theme=" alt="Hannah-Moon" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Hannah-Moon&theme=" alt="Hannah-Moon" /></p>
