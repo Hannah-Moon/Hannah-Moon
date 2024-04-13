@@ -10,7 +10,7 @@ I employ different technologies and methods to create an enchanting user experie
 
 <!--START_SECTION:activity-->
 
-- 🔭 I’m currently working on learning new technical skills in React and Node.js while enhancing foundational HTML, CSS, JavaScript, and MERN (MongoDB, Express, React, Node). 
+- 🔭 I’m currently working on learning new technical skills in modern web development technologies while enhancing foundational React, HTML, CSS, JavaScript, and MERN (MongoDB, Express, React, Node). 
 - 🌱 I’m currently writing an HCI-related paper to publish.
   
 <!--END_SECTION:activity-->
