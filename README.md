@@ -1,4 +1,4 @@
-### Hello! I am Hannah. 👋
+## Hello! I am Hannah. 👋
 
 I am a Software Engineer and Human-Centered Interaction strategist in 🇺🇸. I am adept at blending software engineering, legal, and creative skills to craft seamless and responsible technologies that empower end-users, whether they are consumers or internal stakeholders, in complex environments.  
 
@@ -6,7 +6,7 @@ I employ different technologies and methods to create an enchanting user experie
 
 
 
-## :zap: Recent Activity
+### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 
@@ -16,11 +16,11 @@ I employ different technologies and methods to create an enchanting user experie
 <!--END_SECTION:activity-->
 
 
-<!--## Languages and Tools
-
-<p align="left"> <a href="https://github.com/Hannah-Moon/"><img src="https://skillicons.dev/icons?i=js,express,nodejs,react,npm,jquery,postman,ts,vscode,git,github,mongodb,matlab,html,css,figma,ae,ai,xd,discord,git,notion"> </a> </p>-->
-
 ### 💻 My Languages and Tools
+
+<p align="left"> <a href="https://github.com/Hannah-Moon/"><img src="https://skillicons.dev/icons?i=js,express,nodejs,react,npm,jquery,postman,ts,vscode,git,github,mongodb,matlab,html,css,figma,ae,ai,xd,discord,git,notion"> </a> </p>
+
+<!--
 <table><tr><td valign="top" width="25%">
 
 ### Machine Learning 
@@ -71,7 +71,7 @@ I employ different technologies and methods to create an enchanting user experie
 
 </td><td valign="top" width="25%">
   
-</td></tr></table>  
+</td></tr></table>  -->
 
 ## &#x1f4c8; My GitHub Stats
 
