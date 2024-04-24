@@ -18,7 +18,7 @@ I employ different technologies and methods to create an enchanting user experie
 
 ### 💻 My Languages and Tools
 
-<p align="left"> <a href="https://github.com/Hannah-Moon/"><img src="https://skillicons.dev/icons?i=js,express,nodejs,react,npm,jquery,postman,r,py,ts,vscode,git,github,mongodb,matlab,html,css,figma,ae,ai,xd,discord,git,notion"> </a> </p>
+<p align="left"> <a href="https://github.com/Hannah-Moon/"><img src="https://skillicons.dev/icons?i=js,express,nodejs,react,npm,jquery,postman,r,tableau,py,ts,vscode,git,github,mongodb,matlab,html,css,figma,ae,ai,xd,discord,git,notion"> </a> </p>
 
 <!--
 <table><tr><td valign="top" width="25%">
