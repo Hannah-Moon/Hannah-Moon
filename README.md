@@ -1,8 +1,8 @@
 ## Hello! I am Hannah. 👋
 
-I am a Software Engineer and Human-Computer Interaction(HCI)/Human-Centered Design(HCD) strategist in 🇺🇸. I am adept at blending software engineering, legal, and creative skills to craft seamless and responsible technologies that empower end-users, whether they are consumers or internal stakeholders, in complex environments.  
+I am a Software Engineer and Human-Computer Interaction(HCI) and Product strategist in 🇺🇸. I am adept at blending business, software engineering, legal, and creative skills to craft seamless and responsible technologies that empower end-users in complex environments, whether they are consumers or internal stakeholders.  
 
-I employ different technologies and methods to create an enchanting user experience where humans and technologies can interact and empower each other. 
+I employ different business strategies, technologies, and methods to create winning business solutions where humans and technologies can interact and empower each other. 
 
 
 
